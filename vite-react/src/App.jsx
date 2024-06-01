@@ -1,6 +1,8 @@
 function App() {
+
+  const username = "Enter a username"
   return (
-    <h1>Chai aur react with vite | Hitesh Pandey 
+    <h1>Chai aur react with vite | Hitesh Pandey  -------{username}
     <br />
     <br />
 
